@@ -1,0 +1,7 @@
+*.pyc
+.env
+# Protect secrets
+firebase_credentials.json
+.streamlit/secrets.toml
+__pycache__/
+
