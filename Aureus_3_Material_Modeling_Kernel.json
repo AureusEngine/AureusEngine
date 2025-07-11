@@ -1,0 +1,41 @@
+{
+  "tier_order": [
+    "P",
+    "C",
+    "F",
+    "X",
+    "E",
+    "Y"
+  ],
+  "initial_coefficients": {
+    "deviation_0": 1.0,
+    "deviation_1": 0.65,
+    "deviation_2": 0.4,
+    "deviation_3": 0.25,
+    "deviation_4": 0.1,
+    "deviation_5": 0.05
+  },
+  "modeling_kernel": "Tier-Deviation Coefficient Model",
+  "enforcement": {
+    "nonzero_intermediates": true,
+    "output_sum_target": 100.0,
+    "canonical_matching_required": true
+  },
+  "output_constraints": {
+    "bounded_by_min_max": true,
+    "zero_outside_bounds": true,
+    "explicit_zero_representation": true
+  },
+  "slot_group": "3-material",
+  "validated_behavior_examples": [
+    "XXXX = [0, 0, 0, 100, 0, 0]",
+    "CCY vs CY \u2192 differing shape due to input count",
+    "PCF = CFX = FXE = XEY (uniform curve shape)"
+  ],
+  "notes": [
+    "Tier values (P=1 to Y=1024) must not be used for curve shaping",
+    "All coefficients must be derived by tier-deviation-from-min only",
+    "All BASE fragments contribute, even if duplicate tier",
+    "This JSON applies to 3-material recipes only"
+  ]
+}
