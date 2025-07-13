@@ -1,0 +1,66 @@
+{
+  "description": "Canonical 2-Material Shaping + Adjustment Kernel for the Aureus Engine",
+  "version": "1.0",
+  "tier_map": {
+    "P": 0,
+    "C": 1,
+    "F": 2,
+    "X": 3,
+    "E": 4,
+    "Y": 5
+  },
+  "adjustment_vectors": {
+    "(0, 1)": [
+      -8.66,
+      8.66,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "(0, 2)": [
+      -9.47,
+      3.3,
+      6.17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "(0, 3)": [
+      -16.4,
+      10.02,
+      7.48,
+      -0.15,
+      0.0,
+      0.0
+    ],
+    "(0, 4)": [
+      -23.51,
+      11.5,
+      12.75,
+      5.88,
+      -0.31,
+      0.0
+    ],
+    "(0, 5)": [
+      -29.53,
+      12.93,
+      11.7,
+      7.47,
+      3.17,
+      -5.74
+    ]
+  },
+  "shaping_kernel": {
+    "type": "asymmetric_exponential_sum",
+    "min_weight": 0.9,
+    "max_weight": 0.4,
+    "left_decay": 1.9,
+    "right_decay": 3.0
+  },
+  "bin_range_constraint": {
+    "description": "All shaping and adjustment must operate within [min(input), max(input)+1). Output bins outside this range are set to 0."
+  },
+  "normalization": "Final output distribution must sum to 100%",
+  "output_format": "List of six values corresponding to quality tiers [P, C, F, X, E, Y]"
+}

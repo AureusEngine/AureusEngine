@@ -1,0 +1,9 @@
+{
+  "shaping_kernel": {
+    "type": "asymmetric_exponential_sum",
+    "min_weight": 0.9,
+    "max_weight": 0.4,
+    "left_decay": 1.9,
+    "right_decay": 3.0
+  }
+}

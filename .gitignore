@@ -1,0 +1,43 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python environment
+.env
+.venv
+*.env
+*.venv
+
+# Streamlit and config secrets
+secrets.toml
+*.toml
+*.pem
+*.key
+*.crt
+*.pfx
+
+# Firebase or API keys
+firebase_credentials.json
+
+# Local secure config folders (optional)
+config/
+~/secure_config/
+
+# Logs and temporary files
+*.log
+*.bak
+*.tmp
