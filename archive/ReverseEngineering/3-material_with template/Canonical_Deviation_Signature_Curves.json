@@ -1,0 +1,1124 @@
+[
+  {
+    "Recipe": "YFY",
+    "Input1": "Y",
+    "Input2": "F",
+    "Template": "Y",
+    "DeviationSignature": [
+      3,
+      0,
+      3
+    ],
+    "Output_P": 0.0,
+    "Output_C": 0.0,
+    "Output_F": 35.71,
+    "Output_X": 14.29,
+    "Output_E": 7.14,
+    "Output_Y": 42.86
+  },
+  {
+    "Recipe": "PYE",
+    "Input1": "P",
+    "Input2": "Y",
+    "Template": "E",
+    "DeviationSignature": [
+      0,
+      5,
+      4
+    ],
+    "Output_P": 30.43,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 21.74,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "FEX",
+    "Input1": "F",
+    "Input2": "E",
+    "Template": "X",
+    "DeviationSignature": [
+      0,
+      2,
+      1
+    ],
+    "Output_P": 0.0,
+    "Output_C": 0.0,
+    "Output_F": 36.36,
+    "Output_X": 45.45,
+    "Output_E": 18.18,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PYC",
+    "Input1": "P",
+    "Input2": "Y",
+    "Template": "C",
+    "DeviationSignature": [
+      0,
+      5,
+      1
+    ],
+    "Output_P": 30.43,
+    "Output_C": 34.78,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "PCP",
+    "Input1": "P",
+    "Input2": "C",
+    "Template": "P",
+    "DeviationSignature": [
+      0,
+      1,
+      0
+    ],
+    "Output_P": 77.78,
+    "Output_C": 22.22,
+    "Output_F": 0,
+    "Output_X": 0,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "PFP",
+    "Input1": "P",
+    "Input2": "F",
+    "Template": "P",
+    "DeviationSignature": [
+      0,
+      2,
+      0
+    ],
+    "Output_P": 72.73,
+    "Output_C": 9.09,
+    "Output_F": 18.18,
+    "Output_X": 0,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "PXP",
+    "Input1": "P",
+    "Input2": "X",
+    "Template": "P",
+    "DeviationSignature": [
+      0,
+      3,
+      0
+    ],
+    "Output_P": 64.29,
+    "Output_C": 14.29,
+    "Output_F": 7.14,
+    "Output_X": 14.29,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "PXC",
+    "Input1": "P",
+    "Input2": "X",
+    "Template": "C",
+    "DeviationSignature": [
+      0,
+      3,
+      1
+    ],
+    "Output_P": 35.71,
+    "Output_C": 42.86,
+    "Output_F": 7.14,
+    "Output_X": 14.29,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "PXF",
+    "Input1": "P",
+    "Input2": "X",
+    "Template": "F",
+    "DeviationSignature": [
+      0,
+      3,
+      2
+    ],
+    "Output_P": 35.71,
+    "Output_C": 14.29,
+    "Output_F": 35.71,
+    "Output_X": 14.29,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "PEP",
+    "Input1": "P",
+    "Input2": "E",
+    "Template": "P",
+    "DeviationSignature": [
+      0,
+      4,
+      0
+    ],
+    "Output_P": 55.56,
+    "Output_C": 16.67,
+    "Output_F": 11.11,
+    "Output_X": 5.56,
+    "Output_E": 11.11,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "PEF",
+    "Input1": "P",
+    "Input2": "E",
+    "Template": "F",
+    "DeviationSignature": [
+      0,
+      4,
+      2
+    ],
+    "Output_P": 33.33,
+    "Output_C": 16.67,
+    "Output_F": 33.33,
+    "Output_X": 5.56,
+    "Output_E": 11.11,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "PYP",
+    "Input1": "P",
+    "Input2": "Y",
+    "Template": "P",
+    "DeviationSignature": [
+      0,
+      5,
+      0
+    ],
+    "Output_P": 47.83,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "CPP",
+    "Input1": "C",
+    "Input2": "P",
+    "Template": "P",
+    "DeviationSignature": [
+      1,
+      0,
+      0
+    ],
+    "Output_P": 77.78,
+    "Output_C": 22.22,
+    "Output_F": 0,
+    "Output_X": 0,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "CFP",
+    "Input1": "C",
+    "Input2": "F",
+    "Template": "P",
+    "DeviationSignature": [
+      1,
+      2,
+      0
+    ],
+    "Output_P": 54.55,
+    "Output_C": 27.27,
+    "Output_F": 18.18,
+    "Output_X": 0,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "CXP",
+    "Input1": "C",
+    "Input2": "X",
+    "Template": "P",
+    "DeviationSignature": [
+      1,
+      3,
+      0
+    ],
+    "Output_P": 50,
+    "Output_C": 28.57,
+    "Output_F": 7.14,
+    "Output_X": 14.29,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "CEP",
+    "Input1": "C",
+    "Input2": "E",
+    "Template": "P",
+    "DeviationSignature": [
+      1,
+      4,
+      0
+    ],
+    "Output_P": 44.44,
+    "Output_C": 27.78,
+    "Output_F": 11.11,
+    "Output_X": 5.56,
+    "Output_E": 11.11,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "FPC",
+    "Input1": "F",
+    "Input2": "P",
+    "Template": "C",
+    "DeviationSignature": [
+      2,
+      0,
+      1
+    ],
+    "Output_P": 36.36,
+    "Output_C": 45.45,
+    "Output_F": 18.18,
+    "Output_X": 0,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "FCC",
+    "Input1": "F",
+    "Input2": "C",
+    "Template": "C",
+    "DeviationSignature": [
+      2,
+      1,
+      1
+    ],
+    "Output_P": 0,
+    "Output_C": 77.78,
+    "Output_F": 22.22,
+    "Output_X": 0,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "XPP",
+    "Input1": "X",
+    "Input2": "P",
+    "Template": "P",
+    "DeviationSignature": [
+      3,
+      0,
+      0
+    ],
+    "Output_P": 64.29,
+    "Output_C": 14.29,
+    "Output_F": 7.14,
+    "Output_X": 14.29,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "XCP",
+    "Input1": "X",
+    "Input2": "C",
+    "Template": "P",
+    "DeviationSignature": [
+      3,
+      1,
+      0
+    ],
+    "Output_P": 50,
+    "Output_C": 28.57,
+    "Output_F": 7.14,
+    "Output_X": 14.29,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "XFP",
+    "Input1": "X",
+    "Input2": "F",
+    "Template": "P",
+    "DeviationSignature": [
+      3,
+      2,
+      0
+    ],
+    "Output_P": 50,
+    "Output_C": 14.29,
+    "Output_F": 21.43,
+    "Output_X": 14.29,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "ECP",
+    "Input1": "E",
+    "Input2": "C",
+    "Template": "P",
+    "DeviationSignature": [
+      4,
+      1,
+      0
+    ],
+    "Output_P": 44.44,
+    "Output_C": 27.78,
+    "Output_F": 11.11,
+    "Output_X": 5.56,
+    "Output_E": 11.11,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "EFP",
+    "Input1": "E",
+    "Input2": "F",
+    "Template": "P",
+    "DeviationSignature": [
+      4,
+      2,
+      0
+    ],
+    "Output_P": 44.44,
+    "Output_C": 16.67,
+    "Output_F": 22.22,
+    "Output_X": 5.56,
+    "Output_E": 11.11,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "EXP",
+    "Input1": "E",
+    "Input2": "X",
+    "Template": "P",
+    "DeviationSignature": [
+      4,
+      3,
+      0
+    ],
+    "Output_P": 44.44,
+    "Output_C": 16.67,
+    "Output_F": 11.11,
+    "Output_X": 16.67,
+    "Output_E": 11.11,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "YCP",
+    "Input1": "Y",
+    "Input2": "C",
+    "Template": "P",
+    "DeviationSignature": [
+      5,
+      1,
+      0
+    ],
+    "Output_P": 39.13,
+    "Output_C": 26.09,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "YFP",
+    "Input1": "Y",
+    "Input2": "F",
+    "Template": "P",
+    "DeviationSignature": [
+      5,
+      2,
+      0
+    ],
+    "Output_P": 39.13,
+    "Output_C": 17.39,
+    "Output_F": 21.74,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "PEC",
+    "Input1": "P",
+    "Input2": "E",
+    "Template": "C",
+    "DeviationSignature": [
+      0,
+      4,
+      1
+    ],
+    "Output_P": 33.33,
+    "Output_C": 38.89,
+    "Output_F": 11.11,
+    "Output_X": 5.56,
+    "Output_E": 11.11,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PPP",
+    "Input1": "P",
+    "Input2": "P",
+    "Template": "P",
+    "DeviationSignature": [
+      0,
+      0,
+      0
+    ],
+    "Output_P": 100.0,
+    "Output_C": 0.0,
+    "Output_F": 0.0,
+    "Output_X": 0.0,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PPC",
+    "Input1": "P",
+    "Input2": "P",
+    "Template": "C",
+    "DeviationSignature": [
+      0,
+      0,
+      1
+    ],
+    "Output_P": 55.56,
+    "Output_C": 44.44,
+    "Output_F": 0.0,
+    "Output_X": 0.0,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PPF",
+    "Input1": "P",
+    "Input2": "P",
+    "Template": "F",
+    "DeviationSignature": [
+      0,
+      0,
+      2
+    ],
+    "Output_P": 54.55,
+    "Output_C": 9.09,
+    "Output_F": 36.36,
+    "Output_X": 0.0,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PPX",
+    "Input1": "P",
+    "Input2": "P",
+    "Template": "X",
+    "DeviationSignature": [
+      0,
+      0,
+      3
+    ],
+    "Output_P": 50.0,
+    "Output_C": 14.29,
+    "Output_F": 7.14,
+    "Output_X": 28.57,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PPE",
+    "Input1": "P",
+    "Input2": "P",
+    "Template": "E",
+    "DeviationSignature": [
+      0,
+      0,
+      4
+    ],
+    "Output_P": 44.44,
+    "Output_C": 16.67,
+    "Output_F": 11.11,
+    "Output_X": 5.56,
+    "Output_E": 22.22,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PPY",
+    "Input1": "P",
+    "Input2": "P",
+    "Template": "Y",
+    "DeviationSignature": [
+      0,
+      0,
+      5
+    ],
+    "Output_P": 39.13,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 17.39
+  },
+  {
+    "Recipe": "PCC",
+    "Input1": "P",
+    "Input2": "C",
+    "Template": "C",
+    "DeviationSignature": [
+      0,
+      1,
+      1
+    ],
+    "Output_P": 33.33,
+    "Output_C": 66.67,
+    "Output_F": 0.0,
+    "Output_X": 0.0,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PCF",
+    "Input1": "P",
+    "Input2": "C",
+    "Template": "F",
+    "DeviationSignature": [
+      0,
+      1,
+      2
+    ],
+    "Output_P": 36.36,
+    "Output_C": 27.27,
+    "Output_F": 36.36,
+    "Output_X": 0.0,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PCX",
+    "Input1": "P",
+    "Input2": "C",
+    "Template": "X",
+    "DeviationSignature": [
+      0,
+      1,
+      3
+    ],
+    "Output_P": 35.71,
+    "Output_C": 28.57,
+    "Output_F": 7.14,
+    "Output_X": 28.57,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PCE",
+    "Input1": "P",
+    "Input2": "C",
+    "Template": "E",
+    "DeviationSignature": [
+      0,
+      1,
+      4
+    ],
+    "Output_P": 33.33,
+    "Output_C": 27.78,
+    "Output_F": 11.11,
+    "Output_X": 5.56,
+    "Output_E": 22.22,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PCY",
+    "Input1": "P",
+    "Input2": "C",
+    "Template": "Y",
+    "DeviationSignature": [
+      0,
+      1,
+      5
+    ],
+    "Output_P": 30.43,
+    "Output_C": 26.09,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 17.39
+  },
+  {
+    "Recipe": "PFF",
+    "Input1": "P",
+    "Input2": "F",
+    "Template": "F",
+    "DeviationSignature": [
+      0,
+      2,
+      2
+    ],
+    "Output_P": 36.36,
+    "Output_C": 9.09,
+    "Output_F": 54.55,
+    "Output_X": 0.0,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PFX",
+    "Input1": "P",
+    "Input2": "F",
+    "Template": "X",
+    "DeviationSignature": [
+      0,
+      2,
+      3
+    ],
+    "Output_P": 35.71,
+    "Output_C": 14.29,
+    "Output_F": 21.43,
+    "Output_X": 28.57,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PFE",
+    "Input1": "P",
+    "Input2": "F",
+    "Template": "E",
+    "DeviationSignature": [
+      0,
+      2,
+      4
+    ],
+    "Output_P": 33.33,
+    "Output_C": 16.67,
+    "Output_F": 22.22,
+    "Output_X": 5.56,
+    "Output_E": 22.22,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PFY",
+    "Input1": "P",
+    "Input2": "F",
+    "Template": "Y",
+    "DeviationSignature": [
+      0,
+      2,
+      5
+    ],
+    "Output_P": 30.43,
+    "Output_C": 17.39,
+    "Output_F": 21.74,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 17.39
+  },
+  {
+    "Recipe": "PXX",
+    "Input1": "P",
+    "Input2": "X",
+    "Template": "X",
+    "DeviationSignature": [
+      0,
+      3,
+      3
+    ],
+    "Output_P": 35.71,
+    "Output_C": 14.29,
+    "Output_F": 7.14,
+    "Output_X": 42.86,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PXE",
+    "Input1": "P",
+    "Input2": "X",
+    "Template": "E",
+    "DeviationSignature": [
+      0,
+      3,
+      4
+    ],
+    "Output_P": 33.33,
+    "Output_C": 16.67,
+    "Output_F": 11.11,
+    "Output_X": 16.67,
+    "Output_E": 22.22,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PXY",
+    "Input1": "P",
+    "Input2": "X",
+    "Template": "Y",
+    "DeviationSignature": [
+      0,
+      3,
+      5
+    ],
+    "Output_P": 30.43,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 17.39,
+    "Output_E": 4.35,
+    "Output_Y": 17.39
+  },
+  {
+    "Recipe": "PEE",
+    "Input1": "P",
+    "Input2": "E",
+    "Template": "E",
+    "DeviationSignature": [
+      0,
+      4,
+      4
+    ],
+    "Output_P": 33.33,
+    "Output_C": 16.67,
+    "Output_F": 11.11,
+    "Output_X": 5.56,
+    "Output_E": 33.33,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "PEY",
+    "Input1": "P",
+    "Input2": "E",
+    "Template": "Y",
+    "DeviationSignature": [
+      0,
+      4,
+      5
+    ],
+    "Output_P": 30.43,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 13.04,
+    "Output_Y": 17.39
+  },
+  {
+    "Recipe": "PYY",
+    "Input1": "P",
+    "Input2": "Y",
+    "Template": "Y",
+    "DeviationSignature": [
+      0,
+      5,
+      5
+    ],
+    "Output_P": 30.43,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 26.09
+  },
+  {
+    "Recipe": "PYF",
+    "Input1": "P",
+    "Input2": "Y",
+    "Template": "F",
+    "DeviationSignature": [
+      0,
+      5,
+      2
+    ],
+    "Output_P": 30.43,
+    "Output_C": 17.39,
+    "Output_F": 30.43,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "YYP",
+    "Input1": "Y",
+    "Input2": "Y",
+    "Template": "P",
+    "DeviationSignature": [
+      5,
+      5,
+      0
+    ],
+    "Output_P": 39.13,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 17.39
+  },
+  {
+    "Recipe": "PYX",
+    "Input1": "P",
+    "Input2": "Y",
+    "Template": "X",
+    "DeviationSignature": [
+      0,
+      5,
+      3
+    ],
+    "Output_P": 30.43,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 26.09,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "CYE",
+    "Input1": "C",
+    "Input2": "Y",
+    "Template": "E",
+    "DeviationSignature": [
+      0,
+      4,
+      3
+    ],
+    "Output_P": 0.0,
+    "Output_C": 33.33,
+    "Output_F": 16.67,
+    "Output_X": 11.11,
+    "Output_E": 27.78,
+    "Output_Y": 11.11
+  },
+  {
+    "Recipe": "YCE",
+    "Input1": "Y",
+    "Input2": "C",
+    "Template": "E",
+    "DeviationSignature": [
+      4,
+      0,
+      3
+    ],
+    "Output_P": 0.0,
+    "Output_C": 33.33,
+    "Output_F": 16.67,
+    "Output_X": 11.11,
+    "Output_E": 27.78,
+    "Output_Y": 11.11
+  },
+  {
+    "Recipe": "XFY",
+    "Input1": "X",
+    "Input2": "F",
+    "Template": "Y",
+    "DeviationSignature": [
+      1,
+      0,
+      3
+    ],
+    "Output_P": 0.0,
+    "Output_C": 0.0,
+    "Output_F": 35.71,
+    "Output_X": 28.57,
+    "Output_E": 7.14,
+    "Output_Y": 28.57
+  },
+  {
+    "Recipe": "FFP",
+    "Input1": "F",
+    "Input2": "F",
+    "Template": "P",
+    "DeviationSignature": [
+      2,
+      2,
+      0
+    ],
+    "Output_P": 54.55,
+    "Output_C": 9.09,
+    "Output_F": 36.36,
+    "Output_X": 0.0,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "YYC",
+    "Input1": "Y",
+    "Input2": "Y",
+    "Template": "C",
+    "DeviationSignature": [
+      4,
+      4,
+      0
+    ],
+    "Output_P": 0.0,
+    "Output_C": 44.44,
+    "Output_F": 16.67,
+    "Output_X": 11.11,
+    "Output_E": 5.56,
+    "Output_Y": 22.22
+  },
+  {
+    "Recipe": "XXP",
+    "Input1": "X",
+    "Input2": "X",
+    "Template": "P",
+    "DeviationSignature": [
+      3,
+      3,
+      0
+    ],
+    "Output_P": 50.0,
+    "Output_C": 14.29,
+    "Output_F": 7.14,
+    "Output_X": 28.57,
+    "Output_E": 0.0,
+    "Output_Y": 0.0
+  },
+  {
+    "Recipe": "CYP",
+    "Input1": "C",
+    "Input2": "Y",
+    "Template": "P",
+    "DeviationSignature": [
+      1,
+      5,
+      0
+    ],
+    "Output_P": 39.13,
+    "Output_C": 26.09,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "EYF",
+    "Input1": "E",
+    "Input2": "Y",
+    "Template": "F",
+    "DeviationSignature": [
+      2,
+      3,
+      0
+    ],
+    "Output_P": 0.0,
+    "Output_C": 0.0,
+    "Output_F": 50.0,
+    "Output_X": 14.29,
+    "Output_E": 21.43,
+    "Output_Y": 14.29
+  },
+  {
+    "Recipe": "XYC",
+    "Input1": "X",
+    "Input2": "Y",
+    "Template": "C",
+    "DeviationSignature": [
+      2,
+      4,
+      0
+    ],
+    "Output_P": 0.0,
+    "Output_C": 44.44,
+    "Output_F": 16.67,
+    "Output_X": 22.22,
+    "Output_E": 5.56,
+    "Output_Y": 11.11
+  },
+  {
+    "Recipe": "XYP",
+    "Input1": "X",
+    "Input2": "Y",
+    "Template": "P",
+    "DeviationSignature": [
+      3,
+      5,
+      0
+    ],
+    "Output_P": 39.13,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 17.39,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "YFE",
+    "Input1": "Y",
+    "Input2": "F",
+    "Template": "E",
+    "DeviationSignature": [
+      3,
+      0,
+      2
+    ],
+    "Output_P": 0.0,
+    "Output_C": 0.0,
+    "Output_F": 35.71,
+    "Output_X": 14.29,
+    "Output_E": 35.71,
+    "Output_Y": 14.29
+  },
+  {
+    "Recipe": "YYE",
+    "Input1": "Y",
+    "Input2": "Y",
+    "Template": "E",
+    "DeviationSignature": [
+      1,
+      1,
+      0
+    ],
+    "Output_P": 0.0,
+    "Output_C": 0.0,
+    "Output_F": 0.0,
+    "Output_X": 0.0,
+    "Output_E": 55.56,
+    "Output_Y": 44.44
+  },
+  {
+    "Recipe": "YXP",
+    "Input1": "Y",
+    "Input2": "X",
+    "Template": "P",
+    "DeviationSignature": [
+      5,
+      3,
+      0
+    ],
+    "Output_P": 39.13,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 17.39,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  },
+  {
+    "Recipe": "FCP",
+    "Input1": "F",
+    "Input2": "C",
+    "Template": "P",
+    "DeviationSignature": [
+      2,
+      1,
+      0
+    ],
+    "Output_P": 54.55,
+    "Output_C": 27.27,
+    "Output_F": 18.18,
+    "Output_X": 0,
+    "Output_E": 0,
+    "Output_Y": 0
+  },
+  {
+    "Recipe": "YPP",
+    "Input1": "Y",
+    "Input2": "P",
+    "Template": "P",
+    "DeviationSignature": [
+      5,
+      0,
+      0
+    ],
+    "Output_P": 47.83,
+    "Output_C": 17.39,
+    "Output_F": 13.04,
+    "Output_X": 8.7,
+    "Output_E": 4.35,
+    "Output_Y": 8.7
+  }
+]

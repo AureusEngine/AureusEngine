@@ -62,3 +62,26 @@ def validate_dataset(dataset):
         if not validate_uniform_output(entry):
             results["uniform_errors"].append(recipe)
     return results
+
+
+from kernel_rules import QUALITY_MAP, estimate_qsf_from_inputs, is_upshifted_recipe
+
+def validate_qsf_alignment(entry):
+    input1 = entry["Input1"]
+    input2 = entry["Input2"]
+    template = entry["Template"]
+    devsig = entry["DeviationSignature"]
+
+    q1, q2, qt = QUALITY_MAP[input1], QUALITY_MAP[input2], QUALITY_MAP[template]
+    d0, d1, d2 = devsig
+
+    # Check if signature is logically invalid
+    reconstructed = [q1 - d0, q2 - d1, qt - d2]
+    if any(val < 0 or val > 5 for val in reconstructed):
+        return "INVALID_DEV_SIG_ALIGNMENT"
+
+    # Check if inputs could be shifted downward
+    if is_upshifted_recipe(input1, input2, template):
+        return "VALID_BUT_UPSHIFTED"
+
+    return None
