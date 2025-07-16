@@ -1,0 +1,13 @@
+{
+  "CanonicalTierIndex": {
+    "P": 0,
+    "C": 1,
+    "F": 2,
+    "E": 3,
+    "X": 4,
+    "Y": 5
+  },
+  "DeviationSignatureTableHash": "fcf148b6b0f0379a8d99c0f8b3b6b0349010d14c0a49e0a6025bda6b153e0142",
+  "RuleCount": 16,
+  "KernelIntegrityNote": "Built on full role-aware deviation logic, with exponential shaping arcs and redistribution enforcement."
+}

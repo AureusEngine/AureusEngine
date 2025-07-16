@@ -1,0 +1,10 @@
+{
+  "title": "Prediction & Confidence Logic",
+  "description": "Guiding principles and implementation strategies for prediction accuracy and confidence modeling in the Aureus Engine.",
+  "contents": {
+    "prediction_weighting": "Confidence should scale with matching signature length. Partial matches degrade confidence proportionally.",
+    "gradient_confidence": "Output predictions should include a scalar confidence value rather than a binary true/false result.",
+    "signature_decay": "Confidence should decay with deviation chain shortening. Implement decay models to reflect probabilistic dropoff.",
+    "feedback_loop": "Store failed vs. successful predictions for possible model tuning or override alerts."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Aureus Engine Architectural Phases",
+  "description": "Outlines the logical processing phases of the Aureus Engine shaping pipeline.",
+  "contents": {
+    "phase_1": "Signature expansion and deviation matching.",
+    "phase_2": "Rule contract application and conflict elimination (rules.py).",
+    "phase_3": "Adjustment layer heuristics (non-canonical behavioral alignment).",
+    "phase_4": "Validator output phase including confidence threshold enforcement and feedback logging."
+  }
+}

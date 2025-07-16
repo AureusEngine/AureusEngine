@@ -1,0 +1,10 @@
+{
+  "title": "Philosophical Guidelines for Module Design",
+  "description": "Engineering boundaries and epistemic safeguards in the Aureus Engine.",
+  "contents": {
+    "rule_isolation": "Do not embed shaping constraints into logic modules; isolate in rules.py.",
+    "heuristic_separation": "Heuristics and formal rules must remain separate; adjustment_layer.py may bridge behaviorally.",
+    "data_vs_doctrine": "Never confuse data-derived behavior with intended mechanical doctrine. Preserve both lanes.",
+    "expansion_flexibility": "Design modules to allow for future user interface layers and feedback systems without entangling core logic."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Canonical Structural Rules (1\u201316)": [
+    "1. Template warp scales with dt, capped via exponential decay",
+    "2. Arc spillover must be pushed inward, never discarded",
+    "3. Template tier = Y does not guarantee bin 5 dominance",
+    "4. Template at anchor (dt = 0) has zero additional weighted influence",
+    "5. Uniform inputs = locked 100% bin",
+    "6. Base position commutativity is absolute",
+    "7. Canonical kernel is exponential arc centered on deviation",
+    "8. Anchor alignment is required for shape comparison",
+    "9. Anchor bin dominance overrides weak template influence",
+    "10. Dual-lobed shaping arises from arc interference",
+    "11. Flattening occurs when mid-bin arcs collide (dt \u2248 base_dev)",
+    "12. Template only dominates if dt > all base deviations",
+    "13. Mid-bin shaping wins when base and template deviate similarly",
+    "14. Mirror signatures with same roles must yield same shape",
+    "15. Warp influence saturates at dt \u2265 5 per exponential law",
+    "16. Warp activation is smooth from dt = 1 onward (no step)"
+  ],
+  "Role-Based Deviation Logic": {
+    "Deviation Assignment": "Deviations are assigned as: d1 = Input1 - anchor, d2 = Input2 - anchor, dt = Template - anchor",
+    "Template Role Fixity": "Template is always the third material and maps to dt in signature",
+    "Anchor Computation": "Anchor = min(tier1, tier2, template_tier)",
+    "Valid Bin Range": "Output bins are constrained to [anchor, max tier] inclusive; all overflow is redistributed inward",
+    "Dev-0 Role Tracking": "The engine must explicitly track which roles (base1, base2, template) are at dev=0",
+    "Signature Comparison": "Signature similarity must be based on anchor-aligned deviation sets, not absolute tiers or positions",
+    "Warp Precedence Rule": "Warp only activates when dt > all base deviations; otherwise base shaping dominates"
+  }
+}
