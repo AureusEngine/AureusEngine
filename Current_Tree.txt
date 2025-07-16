@@ -1,5 +1,6 @@
 .gitignore
 README.md
+archive/CurrentTree.txt
 archive/ReverseEngineering/2-material/Expanded_2_Material_Entries.json
 archive/ReverseEngineering/2-material/adjustment_vectors.json
 archive/ReverseEngineering/2-material/aureus_2mat_canvas_export.json
@@ -8,17 +9,16 @@ archive/ReverseEngineering/2-material/canvas_logic.json
 archive/ReverseEngineering/2-material/shaping_kernel_parameters.json
 archive/ReverseEngineering/2-material/shared_rules.json
 archive/ReverseEngineering/2-material/tier_map.json
-archive/ReverseEngineering/3-material-no template/3-material Deviation Signature Table.json
-archive/ReverseEngineering/3-material-no template/adjustment_kernel_3mat.py
-archive/ReverseEngineering/3-material-no template/curve_fit_utils.py
-archive/ReverseEngineering/3-material-no template/predict_3mat_output.py
-archive/ReverseEngineering/3-material-no template/shaping_kernel_3mat.py
-archive/ReverseEngineering/3-material_with template/Canonical_3mat_Seeded_Verified_Complete.json
-archive/ReverseEngineering/3-material_with template/Canonical_Deviation_Signature_Curves.json
-archive/ReverseEngineering/3-material_with template/Template_Influence_Comparison_Table.json
+archive/ReverseEngineering/3-material_no_template/3-material Deviation Signature Table.json
+archive/ReverseEngineering/3-material_no_template/adjustment_kernel_3mat.py
+archive/ReverseEngineering/3-material_no_template/curve_fit_utils.py
+archive/ReverseEngineering/3-material_no_template/predict_3mat_output.py
+archive/ReverseEngineering/3-material_no_template/shaping_kernel_3mat.py
+archive/ReverseEngineering/3-material_with_template/Canonical_3mat_Seeded_Verified_Complete.json
+archive/ReverseEngineering/3-material_with_template/Canonical_Deviation_Signature_Curves.json
+archive/ReverseEngineering/3-material_with_template/Template_Influence_Comparison_Table.json
 archive/ReverseEngineering/4-material/Expanded_4_Material_Entries.json
 archive/ReverseEngineering/5-material/Expanded_5_Material_Entries.json
-archive/ReverseEngineering/Core Modules/Canonical_3mat_Seeded_Verified_Complete.json
 archive/ReverseEngineering/Core Modules/dataset_validator.py
 archive/ReverseEngineering/Core Modules/deviation.py
 archive/ReverseEngineering/Core Modules/kernel_rules.py

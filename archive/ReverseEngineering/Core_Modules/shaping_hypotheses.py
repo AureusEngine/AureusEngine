@@ -71,3 +71,8 @@ def is_strictly_positional(dev_sig: list[int]) -> bool:
 # Rejects deviation signatures that apply bin symmetry or non-positional inference
 def rejects_symmetry_based_normalization() -> bool:
     return True  # This kernel operates on strict (Input1, Input2, Template) ordering only
+
+# Structural rule: any recipe composed of QT's that does not include at least one "P"
+# cannot possibly be QSF-minimized. This is a canonical constraint.
+def recipe_is_at_min_qsf(qt_list: list[str]) -> bool:
+    return "P" in qt_list
