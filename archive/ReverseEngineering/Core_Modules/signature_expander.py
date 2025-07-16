@@ -132,3 +132,8 @@ def expand_signature(
         ]
     else:
         return deduped_output
+
+
+# Applies a uniform QSF shift to a deviation signature
+def apply_qsf_shift(dev_sig: list[int], shift: int) -> list[int]:
+    return [v + shift for v in dev_sig]
