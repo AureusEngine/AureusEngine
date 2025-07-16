@@ -1,6 +1,6 @@
 .gitignore
+Current_Tree.txt
 README.md
-archive/CurrentTree.txt
 archive/ReverseEngineering/2-material/Expanded_2_Material_Entries.json
 archive/ReverseEngineering/2-material/adjustment_vectors.json
 archive/ReverseEngineering/2-material/aureus_2mat_canvas_export.json
@@ -19,17 +19,17 @@ archive/ReverseEngineering/3-material_with_template/Canonical_Deviation_Signatur
 archive/ReverseEngineering/3-material_with_template/Template_Influence_Comparison_Table.json
 archive/ReverseEngineering/4-material/Expanded_4_Material_Entries.json
 archive/ReverseEngineering/5-material/Expanded_5_Material_Entries.json
-archive/ReverseEngineering/Core Modules/dataset_validator.py
-archive/ReverseEngineering/Core Modules/deviation.py
-archive/ReverseEngineering/Core Modules/kernel_rules.py
-archive/ReverseEngineering/Core Modules/quality_map.py
-archive/ReverseEngineering/Core Modules/rules.py
-archive/ReverseEngineering/Core Modules/signature_expander.py
-archive/ReverseEngineering/Final outputs/aureus_2mat_module_export.zip
-archive/ReverseEngineering/Final outputs/canonical_3mat_predictor.py
-archive/ReverseEngineering/Final outputs/override_shaping_kernels.py
-archive/ReverseEngineering/Final outputs/predict_2mat.py
-archive/ReverseEngineering/Final outputs/test_predict_2mat.py
+archive/ReverseEngineering/Core_Modules/dataset_validator.py
+archive/ReverseEngineering/Core_Modules/deviation.py
+archive/ReverseEngineering/Core_Modules/quality_map.py
+archive/ReverseEngineering/Core_Modules/rules.py
+archive/ReverseEngineering/Core_Modules/shaping_hypotheses.py
+archive/ReverseEngineering/Core_Modules/signature_expander.py
+archive/ReverseEngineering/Final_Outputs/aureus_2mat_module_export.zip
+archive/ReverseEngineering/Final_Outputs/canonical_3mat_predictor.py
+archive/ReverseEngineering/Final_Outputs/override_shaping_kernels.py
+archive/ReverseEngineering/Final_Outputs/predict_2mat.py
+archive/ReverseEngineering/Final_Outputs/test_predict_2mat.py
 archive/design_philosophy.json
 archive/engine_architecture.json
 archive/predictor_design.json
