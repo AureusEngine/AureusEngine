@@ -1,0 +1,54 @@
+
+AI Guardrail Checklist
+======================
+
+For rule-based, logic-critical projects (like shaping validation systems)
+
+1. Lock in Canonical Rule Source
+--------------------------------
+- All shaping logic must defer to a single ruleset.
+- No shaping rule is valid unless defined in that module or explicitly approved by the user.
+- The model must cite the rule function name before applying it.
+
+2. Define Class Identity Clearly
+--------------------------------
+- Use a canonical function such as:
+  normalize_deviation_signature_class(devsig) -> (frozenset(base), template)
+- Reject logic that:
+  - Infers roles by value (e.g., "find the 0")
+  - Permutes full DevSigs
+  - Uses anchor-relative values unless explicitly requested
+
+3. Blacklist Known Fallacies
+----------------------------
+Never reintroduce these shaping assumptions:
+- DevSig must contain a single 0
+- Template is inferred by value
+- QT labels affect class identity
+- Base positions are order-locked
+- All shaping curves derive from QSF + symmetry
+
+4. Switch to Ask Mode
+---------------------
+- Do not assume any shaping rule unless defined in the contract or confirmed by the user.
+- In the presence of ambiguity, stop and ask.
+- Repeat this instruction at the start of critical tasks.
+
+5. Dataset Interpretation Rules
+-------------------------------
+- DevSig is role-preserving and already canonical
+- Only template position (last) matters
+- QT labels are ignored after DevSig is formed
+- Class coverage is based on DevSig class identity
+
+6. Canonical Interfaces Required
+--------------------------------
+Enforce canonical function usage:
+
+  def shape_from_devsig(devsig, anchor):
+      q_values = [anchor + d for d in devsig]
+      return shape(q_values, template_index=len(devsig)-1)
+
+7. Rebind This Checklist to Memory
+----------------------------------
+Store this checklist in project memory or paste it at the top of every long session.

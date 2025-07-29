@@ -1,0 +1,38 @@
+{
+  "guardrails": {
+    "rule_source": {
+      "description": "All shaping logic must defer to canonical rule definitions.",
+      "enforcement": "Only use rules defined in rules_contract.py or explicitly confirmed by user."
+    },
+    "devsig_class_identity": {
+      "description": "DevSig class identity must be derived from unordered base + fixed template position.",
+      "function": "normalize_deviation_signature_class(devsig) -> (frozenset(base), template)"
+    },
+    "blacklisted_patterns": [
+      "Inferring template from value (e.g., 0)",
+      "Assuming DevSig has only one 0",
+      "QT labels determine class identity",
+      "Base positions are order-locked",
+      "All shaping curves derive from QSF symmetry"
+    ],
+    "ask_mode": {
+      "description": "Do not assume. In the presence of ambiguity, stop and ask.",
+      "enforce_always": true
+    },
+    "dataset_interpretation": {
+      "description": "DevSigs are canonical. QT labels are ignored after transformation.",
+      "rules": [
+        "DevSig is role-preserving",
+        "Template is always last",
+        "QT values only used for bin positioning"
+      ]
+    },
+    "required_interfaces": {
+      "description": "Use shape_from_devsig() for all class-based shaping tests.",
+      "signature": "def shape_from_devsig(devsig, anchor)"
+    },
+    "enforcement": {
+      "storage": "Rebind this checklist to memory at the start of all major sessions."
+    }
+  }
+}

@@ -1,0 +1,2648 @@
+[
+  {
+    "Recipe": "PPP",
+    "BaseSignatureSorted": [
+      0,
+      0
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 100.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PPP"
+  },
+  {
+    "Recipe": "CCC",
+    "BaseSignatureSorted": [
+      1,
+      1
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 100.0,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PPP"
+  },
+  {
+    "Recipe": "FFF",
+    "BaseSignatureSorted": [
+      2,
+      2
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 100.0,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PPP"
+  },
+  {
+    "Recipe": "XXX",
+    "BaseSignatureSorted": [
+      3,
+      3
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 100.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PPP"
+  },
+  {
+    "Recipe": "EEE",
+    "BaseSignatureSorted": [
+      4,
+      4
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 100.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 4,
+    "OriginalRecipe": "PPP"
+  },
+  {
+    "Recipe": "YYY",
+    "BaseSignatureSorted": [
+      5,
+      5
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 100.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 5,
+    "OriginalRecipe": "PPP"
+  },
+  {
+    "Recipe": "PPC",
+    "BaseSignatureSorted": [
+      0,
+      0
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 55.56,
+      "C": 44.44,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PPC"
+  },
+  {
+    "Recipe": "CCF",
+    "BaseSignatureSorted": [
+      1,
+      1
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 55.56,
+      "F": 44.44,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PPC"
+  },
+  {
+    "Recipe": "FFX",
+    "BaseSignatureSorted": [
+      2,
+      2
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 55.56,
+      "X": 44.44,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PPC"
+  },
+  {
+    "Recipe": "XXE",
+    "BaseSignatureSorted": [
+      3,
+      3
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 55.56,
+      "E": 44.44,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PPC"
+  },
+  {
+    "Recipe": "EEY",
+    "BaseSignatureSorted": [
+      4,
+      4
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 55.56,
+      "Y": 44.44
+    },
+    "IsNormalized": false,
+    "ShiftValue": 4,
+    "OriginalRecipe": "PPC"
+  },
+  {
+    "Recipe": "PPF",
+    "BaseSignatureSorted": [
+      0,
+      0
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 54.55,
+      "C": 9.09,
+      "F": 36.36,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PPF"
+  },
+  {
+    "Recipe": "CCX",
+    "BaseSignatureSorted": [
+      1,
+      1
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 54.55,
+      "F": 9.09,
+      "X": 36.36,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PPF"
+  },
+  {
+    "Recipe": "FFE",
+    "BaseSignatureSorted": [
+      2,
+      2
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 54.55,
+      "X": 9.09,
+      "E": 36.36,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PPF"
+  },
+  {
+    "Recipe": "XXY",
+    "BaseSignatureSorted": [
+      3,
+      3
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 54.55,
+      "E": 9.09,
+      "Y": 36.36
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PPF"
+  },
+  {
+    "Recipe": "PPX",
+    "BaseSignatureSorted": [
+      0,
+      0
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 50.0,
+      "C": 14.29,
+      "F": 7.14,
+      "X": 28.57,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PPX"
+  },
+  {
+    "Recipe": "CCE",
+    "BaseSignatureSorted": [
+      1,
+      1
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 50.0,
+      "F": 14.29,
+      "X": 7.14,
+      "E": 28.57,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PPX"
+  },
+  {
+    "Recipe": "FFY",
+    "BaseSignatureSorted": [
+      2,
+      2
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 50.0,
+      "X": 14.29,
+      "E": 7.14,
+      "Y": 28.57
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PPX"
+  },
+  {
+    "Recipe": "PPE",
+    "BaseSignatureSorted": [
+      0,
+      0
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 44.44,
+      "C": 16.67,
+      "F": 11.11,
+      "X": 5.56,
+      "E": 22.22,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PPE"
+  },
+  {
+    "Recipe": "CCY",
+    "BaseSignatureSorted": [
+      1,
+      1
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 44.44,
+      "F": 16.67,
+      "X": 11.11,
+      "E": 5.56,
+      "Y": 22.22
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PPE"
+  },
+  {
+    "Recipe": "PPY",
+    "BaseSignatureSorted": [
+      0,
+      0
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 5,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 39.13,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 17.39
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PPY"
+  },
+  {
+    "Recipe": "PCP",
+    "BaseSignatureSorted": [
+      0,
+      1
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 77.78,
+      "C": 22.22,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PCP"
+  },
+  {
+    "Recipe": "CFC",
+    "BaseSignatureSorted": [
+      1,
+      2
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 77.78,
+      "F": 22.22,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PCP"
+  },
+  {
+    "Recipe": "FXF",
+    "BaseSignatureSorted": [
+      2,
+      3
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 77.78,
+      "X": 22.22,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PCP"
+  },
+  {
+    "Recipe": "XEX",
+    "BaseSignatureSorted": [
+      3,
+      4
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 77.78,
+      "E": 22.22,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PCP"
+  },
+  {
+    "Recipe": "EYE",
+    "BaseSignatureSorted": [
+      4,
+      5
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 77.78,
+      "Y": 22.22
+    },
+    "IsNormalized": false,
+    "ShiftValue": 4,
+    "OriginalRecipe": "PCP"
+  },
+  {
+    "Recipe": "PCC",
+    "BaseSignatureSorted": [
+      0,
+      1
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 33.33,
+      "C": 66.67,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PCC"
+  },
+  {
+    "Recipe": "CFF",
+    "BaseSignatureSorted": [
+      1,
+      2
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 33.33,
+      "F": 66.67,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PCC"
+  },
+  {
+    "Recipe": "FXX",
+    "BaseSignatureSorted": [
+      2,
+      3
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 33.33,
+      "X": 66.67,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PCC"
+  },
+  {
+    "Recipe": "XEE",
+    "BaseSignatureSorted": [
+      3,
+      4
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 33.33,
+      "E": 66.67,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PCC"
+  },
+  {
+    "Recipe": "EYY",
+    "BaseSignatureSorted": [
+      4,
+      5
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 33.33,
+      "Y": 66.67
+    },
+    "IsNormalized": false,
+    "ShiftValue": 4,
+    "OriginalRecipe": "PCC"
+  },
+  {
+    "Recipe": "PCF",
+    "BaseSignatureSorted": [
+      0,
+      1
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 36.36,
+      "C": 27.27,
+      "F": 36.36,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PCF"
+  },
+  {
+    "Recipe": "CFX",
+    "BaseSignatureSorted": [
+      1,
+      2
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 36.36,
+      "F": 27.27,
+      "X": 36.36,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PCF"
+  },
+  {
+    "Recipe": "FXE",
+    "BaseSignatureSorted": [
+      2,
+      3
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 36.36,
+      "X": 27.27,
+      "E": 36.36,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PCF"
+  },
+  {
+    "Recipe": "XEY",
+    "BaseSignatureSorted": [
+      3,
+      4
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 36.36,
+      "E": 27.27,
+      "Y": 36.36
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PCF"
+  },
+  {
+    "Recipe": "PCX",
+    "BaseSignatureSorted": [
+      0,
+      1
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 35.71,
+      "C": 28.57,
+      "F": 7.14,
+      "X": 28.57,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PCX"
+  },
+  {
+    "Recipe": "CFE",
+    "BaseSignatureSorted": [
+      1,
+      2
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 35.71,
+      "F": 28.57,
+      "X": 7.14,
+      "E": 28.57,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PCX"
+  },
+  {
+    "Recipe": "FXY",
+    "BaseSignatureSorted": [
+      2,
+      3
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 35.71,
+      "X": 28.57,
+      "E": 7.14,
+      "Y": 28.57
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PCX"
+  },
+  {
+    "Recipe": "PCE",
+    "BaseSignatureSorted": [
+      0,
+      1
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 33.33,
+      "C": 27.78,
+      "F": 11.11,
+      "X": 5.56,
+      "E": 22.22,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PCE"
+  },
+  {
+    "Recipe": "CFY",
+    "BaseSignatureSorted": [
+      1,
+      2
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 33.33,
+      "F": 27.78,
+      "X": 11.11,
+      "E": 5.56,
+      "Y": 22.22
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PCE"
+  },
+  {
+    "Recipe": "PCY",
+    "BaseSignatureSorted": [
+      0,
+      1
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 5,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 26.09,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 17.39
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PCY"
+  },
+  {
+    "Recipe": "PFP",
+    "BaseSignatureSorted": [
+      0,
+      2
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 72.73,
+      "C": 9.09,
+      "F": 18.18,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PFP"
+  },
+  {
+    "Recipe": "CXC",
+    "BaseSignatureSorted": [
+      1,
+      3
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 72.73,
+      "F": 9.09,
+      "X": 18.18,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PFP"
+  },
+  {
+    "Recipe": "FEF",
+    "BaseSignatureSorted": [
+      2,
+      4
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 72.73,
+      "X": 9.09,
+      "E": 18.18,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PFP"
+  },
+  {
+    "Recipe": "XYX",
+    "BaseSignatureSorted": [
+      3,
+      5
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 72.73,
+      "E": 9.09,
+      "Y": 18.18
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PFP"
+  },
+  {
+    "Recipe": "PFC",
+    "BaseSignatureSorted": [
+      0,
+      2
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 36.36,
+      "C": 45.45,
+      "F": 18.18,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PFC"
+  },
+  {
+    "Recipe": "CXF",
+    "BaseSignatureSorted": [
+      1,
+      3
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 36.36,
+      "F": 45.45,
+      "X": 18.18,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PFC"
+  },
+  {
+    "Recipe": "FEX",
+    "BaseSignatureSorted": [
+      2,
+      4
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 36.36,
+      "X": 45.45,
+      "E": 18.18,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PFC"
+  },
+  {
+    "Recipe": "XYE",
+    "BaseSignatureSorted": [
+      3,
+      5
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 36.36,
+      "E": 45.45,
+      "Y": 18.18
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PFC"
+  },
+  {
+    "Recipe": "PFF",
+    "BaseSignatureSorted": [
+      0,
+      2
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 36.36,
+      "C": 9.09,
+      "F": 54.55,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PFF"
+  },
+  {
+    "Recipe": "CXX",
+    "BaseSignatureSorted": [
+      1,
+      3
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 36.36,
+      "F": 9.09,
+      "X": 54.55,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PFF"
+  },
+  {
+    "Recipe": "FEE",
+    "BaseSignatureSorted": [
+      2,
+      4
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 36.36,
+      "X": 9.09,
+      "E": 54.55,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PFF"
+  },
+  {
+    "Recipe": "XYY",
+    "BaseSignatureSorted": [
+      3,
+      5
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 36.36,
+      "E": 9.09,
+      "Y": 54.55
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "PFF"
+  },
+  {
+    "Recipe": "PFX",
+    "BaseSignatureSorted": [
+      0,
+      2
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 35.71,
+      "C": 14.29,
+      "F": 21.43,
+      "X": 28.57,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PFX"
+  },
+  {
+    "Recipe": "CXE",
+    "BaseSignatureSorted": [
+      1,
+      3
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 35.71,
+      "F": 14.29,
+      "X": 21.43,
+      "E": 28.57,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PFX"
+  },
+  {
+    "Recipe": "FEY",
+    "BaseSignatureSorted": [
+      2,
+      4
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 35.71,
+      "X": 14.29,
+      "E": 21.43,
+      "Y": 28.57
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PFX"
+  },
+  {
+    "Recipe": "PFE",
+    "BaseSignatureSorted": [
+      0,
+      2
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 33.33,
+      "C": 16.67,
+      "F": 22.22,
+      "X": 5.56,
+      "E": 22.22,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PFE"
+  },
+  {
+    "Recipe": "CXY",
+    "BaseSignatureSorted": [
+      1,
+      3
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 33.33,
+      "F": 16.67,
+      "X": 22.22,
+      "E": 5.56,
+      "Y": 22.22
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PFE"
+  },
+  {
+    "Recipe": "PFY",
+    "BaseSignatureSorted": [
+      0,
+      2
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 5,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 17.39,
+      "F": 21.74,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 17.39
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PFY"
+  },
+  {
+    "Recipe": "PXP",
+    "BaseSignatureSorted": [
+      0,
+      3
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 64.29,
+      "C": 14.29,
+      "F": 7.14,
+      "X": 14.29,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PXP"
+  },
+  {
+    "Recipe": "CEC",
+    "BaseSignatureSorted": [
+      1,
+      4
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 64.29,
+      "F": 14.29,
+      "X": 7.14,
+      "E": 14.29,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PXP"
+  },
+  {
+    "Recipe": "FYF",
+    "BaseSignatureSorted": [
+      2,
+      5
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 64.29,
+      "X": 14.29,
+      "E": 7.14,
+      "Y": 14.29
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PXP"
+  },
+  {
+    "Recipe": "PXC",
+    "BaseSignatureSorted": [
+      0,
+      3
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 35.71,
+      "C": 42.86,
+      "F": 7.14,
+      "X": 14.29,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PXC"
+  },
+  {
+    "Recipe": "CEF",
+    "BaseSignatureSorted": [
+      1,
+      4
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 35.71,
+      "F": 42.86,
+      "X": 7.14,
+      "E": 14.29,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PXC"
+  },
+  {
+    "Recipe": "FYX",
+    "BaseSignatureSorted": [
+      2,
+      5
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 35.71,
+      "X": 42.86,
+      "E": 7.14,
+      "Y": 14.29
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PXC"
+  },
+  {
+    "Recipe": "PXF",
+    "BaseSignatureSorted": [
+      0,
+      3
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 35.71,
+      "C": 14.29,
+      "F": 35.71,
+      "X": 14.29,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PXF"
+  },
+  {
+    "Recipe": "CEX",
+    "BaseSignatureSorted": [
+      1,
+      4
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 35.71,
+      "F": 14.29,
+      "X": 35.71,
+      "E": 14.29,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PXF"
+  },
+  {
+    "Recipe": "FYE",
+    "BaseSignatureSorted": [
+      2,
+      5
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 35.71,
+      "X": 14.29,
+      "E": 35.71,
+      "Y": 14.29
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PXF"
+  },
+  {
+    "Recipe": "PXX",
+    "BaseSignatureSorted": [
+      0,
+      3
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 35.71,
+      "C": 14.29,
+      "F": 7.14,
+      "X": 42.86,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PXX"
+  },
+  {
+    "Recipe": "CEE",
+    "BaseSignatureSorted": [
+      1,
+      4
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 35.71,
+      "F": 14.29,
+      "X": 7.14,
+      "E": 42.86,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PXX"
+  },
+  {
+    "Recipe": "FYY",
+    "BaseSignatureSorted": [
+      2,
+      5
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 35.71,
+      "X": 14.29,
+      "E": 7.14,
+      "Y": 42.86
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "PXX"
+  },
+  {
+    "Recipe": "PXE",
+    "BaseSignatureSorted": [
+      0,
+      3
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 33.33,
+      "C": 16.67,
+      "F": 11.11,
+      "X": 16.67,
+      "E": 22.22,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PXE"
+  },
+  {
+    "Recipe": "CEY",
+    "BaseSignatureSorted": [
+      1,
+      4
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 33.33,
+      "F": 16.67,
+      "X": 11.11,
+      "E": 16.67,
+      "Y": 22.22
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PXE"
+  },
+  {
+    "Recipe": "PXY",
+    "BaseSignatureSorted": [
+      0,
+      3
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 5,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 17.39,
+      "E": 4.35,
+      "Y": 17.39
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PXY"
+  },
+  {
+    "Recipe": "PEP",
+    "BaseSignatureSorted": [
+      0,
+      4
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 55.56,
+      "C": 16.67,
+      "F": 11.11,
+      "X": 5.56,
+      "E": 11.11,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PEP"
+  },
+  {
+    "Recipe": "CYC",
+    "BaseSignatureSorted": [
+      1,
+      5
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 55.56,
+      "F": 16.67,
+      "X": 11.11,
+      "E": 5.56,
+      "Y": 11.11
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PEP"
+  },
+  {
+    "Recipe": "PEC",
+    "BaseSignatureSorted": [
+      0,
+      4
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 33.33,
+      "C": 38.89,
+      "F": 11.11,
+      "X": 5.56,
+      "E": 11.11,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PEC"
+  },
+  {
+    "Recipe": "CYF",
+    "BaseSignatureSorted": [
+      1,
+      5
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 33.33,
+      "F": 38.89,
+      "X": 11.11,
+      "E": 5.56,
+      "Y": 11.11
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PEC"
+  },
+  {
+    "Recipe": "PEF",
+    "BaseSignatureSorted": [
+      0,
+      4
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 33.33,
+      "C": 16.67,
+      "F": 33.33,
+      "X": 5.56,
+      "E": 11.11,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PEF"
+  },
+  {
+    "Recipe": "CYX",
+    "BaseSignatureSorted": [
+      1,
+      5
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 33.33,
+      "F": 16.67,
+      "X": 33.33,
+      "E": 5.56,
+      "Y": 11.11
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PEF"
+  },
+  {
+    "Recipe": "PEX",
+    "BaseSignatureSorted": [
+      0,
+      4
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 33.33,
+      "C": 16.67,
+      "F": 11.11,
+      "X": 27.78,
+      "E": 11.11,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PEX"
+  },
+  {
+    "Recipe": "CYE",
+    "BaseSignatureSorted": [
+      1,
+      5
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 33.33,
+      "F": 16.67,
+      "X": 11.11,
+      "E": 27.78,
+      "Y": 11.11
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PEX"
+  },
+  {
+    "Recipe": "PEE",
+    "BaseSignatureSorted": [
+      0,
+      4
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 33.33,
+      "C": 16.67,
+      "F": 11.11,
+      "X": 5.56,
+      "E": 33.33,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PEE"
+  },
+  {
+    "Recipe": "CYY",
+    "BaseSignatureSorted": [
+      1,
+      5
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 33.33,
+      "F": 16.67,
+      "X": 11.11,
+      "E": 5.56,
+      "Y": 33.33
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "PEE"
+  },
+  {
+    "Recipe": "PEY",
+    "BaseSignatureSorted": [
+      0,
+      4
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 5,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 13.04,
+      "Y": 17.39
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PEY"
+  },
+  {
+    "Recipe": "PYP",
+    "BaseSignatureSorted": [
+      0,
+      5
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 47.83,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PYP"
+  },
+  {
+    "Recipe": "PYC",
+    "BaseSignatureSorted": [
+      0,
+      5
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 1,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 34.78,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PYC"
+  },
+  {
+    "Recipe": "PYF",
+    "BaseSignatureSorted": [
+      0,
+      5
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 2,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 17.39,
+      "F": 30.43,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PYF"
+  },
+  {
+    "Recipe": "PYX",
+    "BaseSignatureSorted": [
+      0,
+      5
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 3,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 26.09,
+      "E": 4.35,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PYX"
+  },
+  {
+    "Recipe": "PYE",
+    "BaseSignatureSorted": [
+      0,
+      5
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 4,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 21.74,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PYE"
+  },
+  {
+    "Recipe": "PYY",
+    "BaseSignatureSorted": [
+      0,
+      5
+    ],
+    "TemplateDevAbsolute": 5,
+    "TemplateDevRelative": 5,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 30.43,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 26.09
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "PYY"
+  },
+  {
+    "Recipe": "CCP",
+    "BaseSignatureSorted": [
+      1,
+      1
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 55.56,
+      "C": 44.44,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "CCP"
+  },
+  {
+    "Recipe": "FFC",
+    "BaseSignatureSorted": [
+      2,
+      2
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 55.56,
+      "F": 44.44,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "CCP"
+  },
+  {
+    "Recipe": "XXF",
+    "BaseSignatureSorted": [
+      3,
+      3
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 55.56,
+      "X": 44.44,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "CCP"
+  },
+  {
+    "Recipe": "EEX",
+    "BaseSignatureSorted": [
+      4,
+      4
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 55.56,
+      "E": 44.44,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "CCP"
+  },
+  {
+    "Recipe": "YYE",
+    "BaseSignatureSorted": [
+      5,
+      5
+    ],
+    "TemplateDevAbsolute": 4,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 0.0,
+      "E": 55.56,
+      "Y": 44.44
+    },
+    "IsNormalized": false,
+    "ShiftValue": 4,
+    "OriginalRecipe": "CCP"
+  },
+  {
+    "Recipe": "CFP",
+    "BaseSignatureSorted": [
+      1,
+      2
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 54.55,
+      "C": 27.27,
+      "F": 18.18,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "CFP"
+  },
+  {
+    "Recipe": "FXC",
+    "BaseSignatureSorted": [
+      2,
+      3
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 54.55,
+      "F": 27.27,
+      "X": 18.18,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "CFP"
+  },
+  {
+    "Recipe": "XEF",
+    "BaseSignatureSorted": [
+      3,
+      4
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 54.55,
+      "X": 27.27,
+      "E": 18.18,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "CFP"
+  },
+  {
+    "Recipe": "EYX",
+    "BaseSignatureSorted": [
+      4,
+      5
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 54.55,
+      "E": 27.27,
+      "Y": 18.18
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "CFP"
+  },
+  {
+    "Recipe": "CXP",
+    "BaseSignatureSorted": [
+      1,
+      3
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 50.0,
+      "C": 28.57,
+      "F": 7.14,
+      "X": 14.29,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "CXP"
+  },
+  {
+    "Recipe": "FEC",
+    "BaseSignatureSorted": [
+      2,
+      4
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 50.0,
+      "F": 28.57,
+      "X": 7.14,
+      "E": 14.29,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "CXP"
+  },
+  {
+    "Recipe": "XYF",
+    "BaseSignatureSorted": [
+      3,
+      5
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 50.0,
+      "X": 28.57,
+      "E": 7.14,
+      "Y": 14.29
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "CXP"
+  },
+  {
+    "Recipe": "CEP",
+    "BaseSignatureSorted": [
+      1,
+      4
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 44.44,
+      "C": 27.78,
+      "F": 11.11,
+      "X": 5.56,
+      "E": 11.11,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "CEP"
+  },
+  {
+    "Recipe": "FYC",
+    "BaseSignatureSorted": [
+      2,
+      5
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 44.44,
+      "F": 27.78,
+      "X": 11.11,
+      "E": 5.56,
+      "Y": 11.11
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "CEP"
+  },
+  {
+    "Recipe": "CYP",
+    "BaseSignatureSorted": [
+      1,
+      5
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 39.13,
+      "C": 26.09,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "CYP"
+  },
+  {
+    "Recipe": "FFP",
+    "BaseSignatureSorted": [
+      2,
+      2
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 54.55,
+      "C": 9.09,
+      "F": 36.36,
+      "X": 0.0,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "FFP"
+  },
+  {
+    "Recipe": "XXC",
+    "BaseSignatureSorted": [
+      3,
+      3
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 54.55,
+      "F": 9.09,
+      "X": 36.36,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "FFP"
+  },
+  {
+    "Recipe": "EEF",
+    "BaseSignatureSorted": [
+      4,
+      4
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 54.55,
+      "X": 9.09,
+      "E": 36.36,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "FFP"
+  },
+  {
+    "Recipe": "YYX",
+    "BaseSignatureSorted": [
+      5,
+      5
+    ],
+    "TemplateDevAbsolute": 3,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 0.0,
+      "X": 54.55,
+      "E": 9.09,
+      "Y": 36.36
+    },
+    "IsNormalized": false,
+    "ShiftValue": 3,
+    "OriginalRecipe": "FFP"
+  },
+  {
+    "Recipe": "FXP",
+    "BaseSignatureSorted": [
+      2,
+      3
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 50.0,
+      "C": 14.29,
+      "F": 21.43,
+      "X": 14.29,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "FXP"
+  },
+  {
+    "Recipe": "XEC",
+    "BaseSignatureSorted": [
+      3,
+      4
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 50.0,
+      "F": 14.29,
+      "X": 21.43,
+      "E": 14.29,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "FXP"
+  },
+  {
+    "Recipe": "EYF",
+    "BaseSignatureSorted": [
+      4,
+      5
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 50.0,
+      "X": 14.29,
+      "E": 21.43,
+      "Y": 14.29
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "FXP"
+  },
+  {
+    "Recipe": "FEP",
+    "BaseSignatureSorted": [
+      2,
+      4
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 44.44,
+      "C": 16.67,
+      "F": 22.22,
+      "X": 5.56,
+      "E": 11.11,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "FEP"
+  },
+  {
+    "Recipe": "XYC",
+    "BaseSignatureSorted": [
+      3,
+      5
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 44.44,
+      "F": 16.67,
+      "X": 22.22,
+      "E": 5.56,
+      "Y": 11.11
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "FEP"
+  },
+  {
+    "Recipe": "FYP",
+    "BaseSignatureSorted": [
+      2,
+      5
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 39.13,
+      "C": 17.39,
+      "F": 21.74,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "FYP"
+  },
+  {
+    "Recipe": "XXP",
+    "BaseSignatureSorted": [
+      3,
+      3
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 50.0,
+      "C": 14.29,
+      "F": 7.14,
+      "X": 28.57,
+      "E": 0.0,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "XXP"
+  },
+  {
+    "Recipe": "EEC",
+    "BaseSignatureSorted": [
+      4,
+      4
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 50.0,
+      "F": 14.29,
+      "X": 7.14,
+      "E": 28.57,
+      "Y": 0.0
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "XXP"
+  },
+  {
+    "Recipe": "YYF",
+    "BaseSignatureSorted": [
+      5,
+      5
+    ],
+    "TemplateDevAbsolute": 2,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 0.0,
+      "F": 50.0,
+      "X": 14.29,
+      "E": 7.14,
+      "Y": 28.57
+    },
+    "IsNormalized": false,
+    "ShiftValue": 2,
+    "OriginalRecipe": "XXP"
+  },
+  {
+    "Recipe": "XYP",
+    "BaseSignatureSorted": [
+      3,
+      5
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 39.13,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 17.39,
+      "E": 4.35,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "XYP"
+  },
+  {
+    "Recipe": "EXP",
+    "BaseSignatureSorted": [
+      3,
+      4
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 44.44,
+      "C": 16.67,
+      "F": 11.11,
+      "X": 16.67,
+      "E": 11.11,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "EXP"
+  },
+  {
+    "Recipe": "YEC",
+    "BaseSignatureSorted": [
+      4,
+      5
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 44.44,
+      "F": 16.67,
+      "X": 11.11,
+      "E": 16.67,
+      "Y": 11.11
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "EXP"
+  },
+  {
+    "Recipe": "EEP",
+    "BaseSignatureSorted": [
+      4,
+      4
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 44.44,
+      "C": 16.67,
+      "F": 11.11,
+      "X": 5.56,
+      "E": 22.22,
+      "Y": 0.0
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "EEP"
+  },
+  {
+    "Recipe": "YYC",
+    "BaseSignatureSorted": [
+      5,
+      5
+    ],
+    "TemplateDevAbsolute": 1,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 0.0,
+      "C": 44.44,
+      "F": 16.67,
+      "X": 11.11,
+      "E": 5.56,
+      "Y": 22.22
+    },
+    "IsNormalized": false,
+    "ShiftValue": 1,
+    "OriginalRecipe": "EEP"
+  },
+  {
+    "Recipe": "EYP",
+    "BaseSignatureSorted": [
+      4,
+      5
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 39.13,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 13.04,
+      "Y": 8.7
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "EYP"
+  },
+  {
+    "Recipe": "YYP",
+    "BaseSignatureSorted": [
+      5,
+      5
+    ],
+    "TemplateDevAbsolute": 0,
+    "TemplateDevRelative": 0,
+    "TemplatePresent": true,
+    "OutputBins": {
+      "P": 39.13,
+      "C": 17.39,
+      "F": 13.04,
+      "X": 8.7,
+      "E": 4.35,
+      "Y": 17.39
+    },
+    "IsNormalized": true,
+    "ShiftValue": 0,
+    "OriginalRecipe": "YYP"
+  }
+]
